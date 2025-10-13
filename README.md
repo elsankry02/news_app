@@ -1,6 +1,7 @@
 # News App 📰
 
-![Image](https://github.com/user-attachments/assets/94527bc9-5d7e-4fe7-affb-0d9acad18d30)
+![Image](![Uploading news_app.png…]()
+)
 
 ## 📰 News App Overview
 
@@ -29,4 +30,5 @@ A Flutter-based mobile application designed to provide users with real-time news
 **Search Functionality:** Enables users to search for news articles by keywords.
 
 **Responsive Design:** Ensures optimal display across various device sizes and orientations.
+
 
