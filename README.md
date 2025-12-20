@@ -1,4 +1,4 @@
-# 📰 News App - Flutter
+# 📰 News App 
 
 ![Image](https://github.com/user-attachments/assets/3059d44b-abde-4a16-8afb-dbdeab80728b)
 
@@ -17,6 +17,7 @@ This project follows the **MVVM (Model-View-ViewModel)** architectural pattern.
 * **Networking:** Dio
 * **Architecture:** MVVM Pattern
 * **UI Components:** Material Design
+
 
 
 
