@@ -12,36 +12,25 @@ Keyword Search: Find specific articles easily with a robust search feature.
 
 Dynamic Theming: Full support for Dark and Light modes.
 
-Responsive UI: Optimized for a smooth experience across various screen sizes.
+Responsive UI: Optimized for all screen sizes.
 
-Seamless Navigation: Fast and intuitive transitions between screens.
+# 🛠️ Tech Stack & Architecture
+This project follows the MVVM architectural pattern.
 
-#🛠️ Tech Stack & Architecture
-This project follows the MVVM (Model-View-ViewModel) architectural pattern to ensure clean, maintainable, and scalable code.
+State Management: Riverpod
 
-Framework: Flutter
+Navigation: AutoRoute
 
-State Management: Riverpod (for robust and reactive state handling)
-
-Navigation: AutoRoute (for strongly-typed routing)
-
-Networking: Dio (for handling HTTP requests)
-
-Architecture: MVVM Pattern
+Networking: Dio
 
 UI Components: Material Design
 
-📦 Installation
+# 📦 Installation
 Clone the repository:
 
 Bash
 
 git clone https://github.com/elsankry02/news_app.git
-Navigate to the project directory:
-
-Bash
-
-cd news_app
 Install dependencies:
 
 Bash
@@ -52,14 +41,11 @@ Run the app:
 Bash
 
 flutter run
-📂 Project Structure
-Plaintext
+# 📂 Project Structure
+lib/data: Models and API providers.
 
-lib/
-├── data/           # Models and API providers
-├── providers/      # Riverpod state providers
-├── ui/             # Screens and reusable widgets
-├── view_models/    # Logic for UI screens
-└── main.dart       # App entry point
+lib/providers: Riverpod state management.
 
+lib/ui: Screens and widgets.
 
+lib/view_models: Logic for UI screens.
