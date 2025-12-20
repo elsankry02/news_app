@@ -19,8 +19,4 @@ This project follows the **MVVM (Model-View-ViewModel)** architectural pattern.
 * **Architecture:** MVVM Pattern
 * **UI Components:** Material Design
 
-# 📦 Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/elsankry02/news_app.git](https://github.com/elsankry02/news_app.git)
