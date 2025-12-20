@@ -1,9 +1,9 @@
 ![Image](https://github.com/user-attachments/assets/3059d44b-abde-4a16-8afb-dbdeab80728b)
 
-📰 News App - Flutter
+## 📰 News App - Flutter ##
 A modern, high-performance news application built with Flutter and Dart. The app delivers real-time global news updates with categorized filtering and keyword search functionality, providing a seamless reading experience.
 
-🚀 Features
+# 🚀 Features
 Real-time News: Fetches the latest global headlines using RESTful APIs.
 
 Category Filtering: Browse news by categories (Business, Technology, Sports, etc.).
@@ -16,7 +16,7 @@ Responsive UI: Optimized for a smooth experience across various screen sizes.
 
 Seamless Navigation: Fast and intuitive transitions between screens.
 
-🛠️ Tech Stack & Architecture
+#🛠️ Tech Stack & Architecture
 This project follows the MVVM (Model-View-ViewModel) architectural pattern to ensure clean, maintainable, and scalable code.
 
 Framework: Flutter
@@ -61,4 +61,5 @@ lib/
 ├── ui/             # Screens and reusable widgets
 ├── view_models/    # Logic for UI screens
 └── main.dart       # App entry point
+
 
